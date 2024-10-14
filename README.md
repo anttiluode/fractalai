@@ -5,7 +5,7 @@ The **Multimodal Fractal AI Model** is an experimental deep learning framework d
 
 It is based on the idea that human brain / AI may store information as fractals. 
 
-It is mostly broken code that most likely will never be done. 
+It is mostly broken code that most likely will never be done written by ChatGPT / Claude. 
 
 ## Features
 - **Fractal Architecture**: Dynamic branching structure for processing different modalities.
