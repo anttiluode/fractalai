@@ -24,7 +24,7 @@ To run the Multimodal Fractal AI Model locally, follow these steps:
 
 Install the required dependencies:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Ensure you have the necessary software:
@@ -37,7 +37,7 @@ Gradio: For building the interactive interface
 Usage
 Run the application:
 
-bash
+```bash
 Copy code
 python main.py
 Access the web interface at http://127.0.0.1:7860.
