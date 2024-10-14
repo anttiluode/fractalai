@@ -20,13 +20,13 @@ To run the Multimodal Fractal AI Model locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/anttiluode/fractalai.git
-   cd fractalai
+   cd fractalai```
 
 Install the required dependencies:
 
 ```bash
 Copy code
-pip install -r requirements.txt
+pip install -r requirements.txt```
 Ensure you have the necessary software:
 
 Python: Version 3.7 or higher
@@ -39,7 +39,7 @@ Run the application:
 
 ```bash
 Copy code
-python main.py
+python main.py```
 Access the web interface at http://127.0.0.1:7860.
 
 Interact with the model:
