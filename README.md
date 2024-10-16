@@ -1,66 +1,56 @@
-# Multimodal Fractal AI Model
+# Fractal AI with Visualization and Interaction
 
 ## Description
-
-The **Multimodal Fractal AI Model** is an experimental deep learning framework designed to process and integrate multiple data modalities, including text, audio, and video. The architecture employs a fractal approach, utilizing branches and leaves to dynamically grow and prune based on resource usage and importance metrics. 
-
-It is based on the idea that human brain / AI may store information as fractals. 
-
-It is mostly broken code that most likely will never be done written by ChatGPT / Claude. 
+This project implements an advanced Fractal AI system with dynamic growth, visualization, and interactive features. It combines concepts from fractal geometry, neural networks, and Hebbian learning to create a unique and evolving AI structure.
 
 ## Features
-- **Fractal Architecture**: Dynamic branching structure for processing different modalities.
-- **Multimodal Integration**: Combines text, audio, and video inputs for enriched AI responses.
-  (these have not been tried) 
-- **Memory Management**: Adapts to available GPU memory and can prune or grow branches accordingly.
-- **Interactive Training**: Train the model with custom prompts through a user-friendly interface.
+- Dynamic fractal network growth
+- 3D visualization of the fractal AI structure
+- Hebbian learning for connection weight updates
+- Interactive chat functionality
+- Wikipedia integration for training
+- Self-conversation mode
+- State saving and loading
+- Zoom functionality for detailed exploration
 
 ## Installation
-To run the Multimodal Fractal AI Model locally, follow these steps:
 
-1. Clone the repository:
-   
-   git clone https://github.com/anttiluode/fractalai.git
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/fractal-ai.git
+   cd fractal-ai
+   ```
 
-   cd fractalai
-   
-Install the required dependencies:
+2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
-pip install -r requirements.txt
+## Usage
 
-Ensure you have the necessary software:
+Run the main script:
+```
+python fractal_ai.py
+```
 
-Python: Version 3.7 or higher
-PyTorch: Make sure to install a version compatible with your CUDA setup.
-Librosa: For audio processing
-OpenCV: For video processing
-Gradio: For building the interactive interface
+This will launch a Gradio interface in your default web browser, where you can interact with the Fractal AI system.
 
-Usage
+## Interface Options
 
-Run the application:
+- **Run Cycles**: Execute a specified number of thinking cycles
+- **Train on Wikipedia**: Input a topic to train the AI on Wikipedia content
+- **Chat**: Engage in a conversation with the AI
+- **Self-Conversation**: Let the AI converse with itself
+- **Zoom**: Explore the fractal structure in detail
+- **Save/Load State**: Preserve or restore the AI's state
 
-python main.py
+## Contributors
+- Antti Luode - Original concept and ideation
+- ChatGPT - Assisted in code generation and problem-solving
+- Claude (Anthropic) - Implemented core functionality and resolved issues
 
-Access the web interface at http://127.0.0.1:7860.
+## Acknowledgements
+Special thanks to Antti Luode for the innovative and ambitious idea behind this project. The collaboration between human creativity and AI assistance has made this unique project possible.
 
-Interact with the model:
-
-Train the model with custom prompts.
-
-Train it with LM Studio - start a server and click on start training. LM Studio will start talking with the model 
-and perhaps it will learn something. Do not expect intelligent output. 
-
-Ideally it would be able to handle video that is sent to it in very small resolution and audio. . Like a babby. 
-You know. A lil android. Interesting is that it will grow and prune leaves and brances somehow. According to what 
-ever mumbo jumbo claude and o1 model put in to the code.. 
-
-Oh and if it was all working.. You might be able to generate creative dreams based on trained data.
-
-Known Issues
-
-It is mostly a feverish dream. Autistic obsession. 
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is open-source and available under the MIT License.
