@@ -17,7 +17,7 @@ This project implements an advanced Fractal AI system with dynamic growth, visua
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/fractal-ai.git
+   git clone https://github.com/anttiluode/fractalai.git
    cd fractal-ai
    ```
 
