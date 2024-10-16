@@ -7,6 +7,10 @@ This project implements an advanced Fractal AI system with dynamic growth, visua
 
 [![Fractal AI Project Video](https://img.youtube.com/vi/M1mV1a5Te44/0.jpg)](https://www.youtube.com/watch?v=M1mV1a5Te44)
 
+Project space at hugginface: 
+
+[FractalAI](https://huggingface.co/spaces/Aluode/FractalAI)
+
 
 ## Features
 - Dynamic fractal network growth
