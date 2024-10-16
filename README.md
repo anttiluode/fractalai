@@ -3,6 +3,11 @@
 ## Description
 This project implements an advanced Fractal AI system with dynamic growth, visualization, and interactive features. It combines concepts from fractal geometry, neural networks, and Hebbian learning to create a unique and evolving AI structure.
 
+**Project Video Demonstration:**
+
+[![Fractal AI Project Video](https://img.youtube.com/vi/M1mV1a5Te44/0.jpg)](https://www.youtube.com/watch?v=M1mV1a5Te44)
+
+
 ## Features
 - Dynamic fractal network growth
 - 3D visualization of the fractal AI structure
