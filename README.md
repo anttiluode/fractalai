@@ -30,7 +30,7 @@ This project implements an advanced Fractal AI system with dynamic growth, visua
 
 Run the main script:
 ```
-python fractal_ai.py
+python app.py
 ```
 
 This will launch a Gradio interface in your default web browser, where you can interact with the Fractal AI system.
