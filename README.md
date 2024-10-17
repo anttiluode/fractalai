@@ -1,5 +1,9 @@
 # Fractal AI with Visualization and Interaction
 
+Version 2 is at: 
+
+[FractalAIv2 - GitHub Repository](https://github.com/anttiluode/FractalAIv2)
+
 ## Description
 This project implements an advanced Fractal AI system with dynamic growth, visualization, and interactive features. It combines concepts from fractal geometry, neural networks, and Hebbian learning to create a unique and evolving AI structure.
 
@@ -52,10 +56,6 @@ This will launch a Gradio interface in your default web browser, where you can i
 - **Self-Conversation**: Let the AI converse with itself
 - **Zoom**: Explore the fractal structure in detail
 - **Save/Load State**: Preserve or restore the AI's state
-
-Version 2 is at: 
-
-[FractalAIv2 - GitHub Repository](https://github.com/anttiluode/FractalAIv2)
 
 ### Key Differences from the Initial Version
 
