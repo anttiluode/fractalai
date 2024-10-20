@@ -4,6 +4,12 @@ Version 2 is at:
 
 [FractalAIv2 - GitHub Repository](https://github.com/anttiluode/FractalAIv2)
 
+Brand new WAY more complicated version is at: 
+
+[DaFucV2](https://github.com/anttiluode/DaFucV2.git)
+
+This one actually has attention, Vae etc.. 
+
 ## Description
 This project implements an advanced Fractal AI system with dynamic growth, visualization, and interactive features. It combines concepts from fractal geometry, neural networks, and Hebbian learning to create a unique and evolving AI structure.
 
